@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Supply Chain
-- 🌱 I’m currently learning programming languages
+- 🌱 I’m currently learning this programming languages:
 
   
 <div style="display: inline_block"><br> 
